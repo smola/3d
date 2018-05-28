@@ -9,6 +9,10 @@ Models are created using [OpenSCAD](http://www.openscad.org/), so they are sourc
 * Garden
   * [Vine lattice](garden/vine_lattice/README.md)
 
+## Utilities
+
+* [lib/lib.scad](lib/lib.scad): useful OpenSCAD functions.
+
 ## License
 
 This project is released under a double license:
